@@ -1,16 +1,3 @@
-<style>
-        .social-icons img {
-            margin-right: 10px; /* Adjust the spacing as needed */
-        }
-        .coding-gif {
-            display: block;
-            margin-top: 20px; /* Adjust the spacing as needed */
-        }
-    </style>
-
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=1000&color=17ACFF&background=09213293&center=true&vCenter=true&random=false&width=435&lines=Hello!++I'm+Tharul" alt="Typing SVG" /></a>
 
 ---------------------------------------------------------------------
