@@ -15,7 +15,7 @@
         </a>
     </p>
     ----------------------------------------------------------------
-    <img class="coding-gif" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://www.canva.com/design/DAGGNaZF1CQ/4uAMpIyOt6E7n0AhFWwuaA/watch)" alt="Coding Person" width="300" height="200">
+    <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 
 ---------------------------------------------------------------------    
 <h3 align="left">My Tools</h3>
