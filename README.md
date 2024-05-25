@@ -15,7 +15,7 @@
         </a>
     </p>
     ----------------------------------------------------------------
-    <img class="coding-gif" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Person" width="300" height="200">
+    <img class="coding-gif" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://www.canva.com/design/DAGGNaZF1CQ/4uAMpIyOt6E7n0AhFWwuaA/watch)" alt="Coding Person" width="300" height="200">
 
 ---------------------------------------------------------------------    
 <h3 align="left">My Tools</h3>
